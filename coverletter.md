@@ -8,7 +8,7 @@ title: Cover Letter
 Martin Fanjul Guzman  
 4000 Central Florida Blvd  
 Orlando, FL, 32816  
-ma779403@ucf.edu  
+example@email.com  
 
 
 Electronic Arts  
