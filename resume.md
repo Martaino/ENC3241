@@ -5,7 +5,7 @@ title: Resume
 
 # Resume
 ## Martin Fanjul Guzman  
-#### ma779403@ucf.edu | https://www.linkedin.com/in/martin-fanjul-guzman-aa15b0226/  
+#### example@email.com | https://www.linkedin.com/in/example-person/  
 
 Computer Science student at UCF with a 3.893 GPA and experience with full-stack web development. Proficient in C, Java, Python, JavaScript, and HTML/CSS, with experience using data structures and algorithms to solve efficiency-based problems.  
 ### Education  
