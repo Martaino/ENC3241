@@ -6,7 +6,7 @@ title: Proposal
 # Proposal
 
 ## Assessing the Impact of Git Integration in Early Undergraduate Computer Science Curriculum
-Martin Fanjul Guzman &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Computer Science BS
+Martin Fanjul Guzman &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Computer Science BS
 
 ### Background
 &emsp;&emsp;The computer science (CS) curriculum at the University of Central Florida (UCF) provides a good understanding of data structures, algorithms, and software development. However, it lacks instruction on version control systems (VCS) like Git. The ability to use VCS properly is becoming increasingly important in the software industry. When in teams, version control is one of the most important factors for communicating and sharing with other developers. (Haaranen and Lehtinen 87) In early courses at UCF, there is no integration of version control and files are shared through manual file management and .zip files. This causes difficulty in collaborative environments like team projects and could lead to difficulties using version control when it’s needed in the future. This proposal attempts to quantify the version control literacy or “Git-literacy” of UCF CS students through a study that will provide a framework for curriculum integration.
