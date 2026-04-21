@@ -5,7 +5,6 @@ title: Cover Letter
 
 # Cover Letter
 
-[Paste your cover letter here]
 Martin Fanjul Guzman
 4000 Central Florida Blvd
 Orlando, FL, 32816
@@ -22,6 +21,5 @@ I am writing to apply for the Security Automation Engineer Intern position, for 
 	Like EA, I am committed to creating experiences that inspire players around the world. As a gamer myself, I understand the importance of maintaining trust between company and player and how important the front-end to back-end stability/security is to accomplish that. I also admire the immersive and inclusive culture that EA has. I am sure I will be I will be able to communicate effectively with my bilingual proficiency in English and Spanish. 
 	I would like to have the opportunity to interview for this position and am available on any weekend this spring to meet with you. I am attaching my resume below. Thank you for your time and considering my application.
 Sincerely,
-
 
 Martin Fanjul Guzman
