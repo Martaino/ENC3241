@@ -23,6 +23,8 @@ Dear Recruiting Manager,
 &emsp;&emsp;Like EA, I am committed to creating experiences that inspire players around the world. As a gamer myself, I understand the importance of maintaining trust between company and player and how important the front-end to back-end stability/security is to accomplish that. I also admire the immersive and inclusive culture that EA has. I am sure I will be I will be able to communicate effectively with my bilingual proficiency in English and Spanish.  
 &emsp;&emsp;I would like to have the opportunity to interview for this position and am available on any weekend this spring to meet with you. I am attaching my resume below. Thank you for your time and considering my application.
 	
-Sincerely,
-<img width="267" height="58" alt="image" src="https://github.com/user-attachments/assets/64c82a59-c728-495e-b192-c29c1d9e3d36" />
+Sincerely,  
+
+<img width="267" height="58" alt="image" src="https://github.com/user-attachments/assets/64c82a59-c728-495e-b192-c29c1d9e3d36" />  
+
 Martin Fanjul Guzman
