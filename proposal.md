@@ -6,7 +6,7 @@ title: Proposal
 # Proposal
 
 ## Assessing the Impact of Git Integration in Early Undergraduate Computer Science Curriculum
-Martin Fanjul Guzman &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Computer Science BS
+Martin Fanjul Guzman &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Computer Science BS
 
 ### Background
 &emsp;&emsp;The computer science (CS) curriculum at the University of Central Florida (UCF) provides a good understanding of data structures, algorithms, and software development. However, it lacks instruction on version control systems (VCS) like Git. The ability to use VCS properly is becoming increasingly important in the software industry. When in teams, version control is one of the most important factors for communicating and sharing with other developers. (Haaranen and Lehtinen 87) In early courses at UCF, there is no integration of version control and files are shared through manual file management and .zip files. This causes difficulty in collaborative environments like team projects and could lead to difficulties using version control when it’s needed in the future. This proposal attempts to quantify the version control literacy or “Git-literacy” of UCF CS students through a study that will provide a framework for curriculum integration.
@@ -24,7 +24,8 @@ This research is focused on collecting data from a student-wide survey of CS stu
 ### Significance 
 -	This proposal addresses version control, a crucial skill in the software industry. By learning Git in the computer science curriculum at UCF, students can increase their competitiveness in the job market. The research shows the importance of teaching Git and replacing the current method of learning Git, self-teaching.  
 -	The people who will benefit from this work are undergraduate students in computer science and the UCF Department of Computer Science. This research can also be used to serve as a model for other curriculums in need of change.  
--	This research provides insight into how beneficial early exposure to version control affects student performance in the CS department. It will also highlight the unnecessary hardship caused by the lack of Git in the UCF Computer Science curriculum.  
+-	This research provides insight into how beneficial early exposure to version control affects student performance in the CS department. It will also highlight the unnecessary hardship caused by the lack of Git in the UCF Computer Science curriculum.
+
 ### References
 Chacon, Scott, and Ben Straub. Pro Git. 2nd ed., Apress, 2014.  
 Haaranen, Lassi, and Teemu Lehtinen. “Teaching Git on the Side: Version Control System as a Course Platform.” Proceedings of the 2015 ACM Conference on Innovation and Technology in Computer Science Education [Vilnius Lithuania], 2015, pp. 87–92. DOI.org (Crossref), https://doi.org/10.1145/2729094.2742608.
