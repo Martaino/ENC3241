@@ -40,6 +40,7 @@ Mar 16 – Mar 31|Analysis Phase: Export data to excel, clean/refine it, and get
 Apr 1 – May 10|Final Phase: Finish final report, print research poster, and present at SURE.
 
 ### Budget 
+
 Item Description|Units and Cost|Justification|Total
 -|-|-|-
 Research Poster|1 x $25 Print|For the SURE presentation.|$25
